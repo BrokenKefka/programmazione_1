@@ -1,2 +1,6 @@
-# programmazione_1
-List of exercises made during the first semester of computer science 
+# Computer Science
+
+University of Cagliari
+
+Compilation of exercises made during the first semester of Computer science
+Course: programming 1 (laboratory)
